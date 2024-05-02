@@ -44,3 +44,11 @@ body {
     color: wheat;
 }
 
+#newGame-btn {
+    padding: 10px 20px;
+    background: black;
+    border: none;
+    color: wheat;
+    border-radius: 5px;
+}
+
